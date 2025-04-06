@@ -24,15 +24,18 @@
 
 <div align="center">
 
-<a href="https://www.notion.so/1cd75546dc30802f868dee6283eca452?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black&color=EEC9D2"/>
+<a href="https://www.notion.so/1cd75546dc30802f868dee6283eca452?pvs=4" target="_blank" style="text-decoration: none;">
+  <img width="600" alt="Notion Portfolio Card" src="https://img.shields.io/badge/Notion%20Portfolio-My%20cozy%20developer%20space-FFE3E1?style=for-the-badge&logo=notion&logoColor=black&labelColor=F5E6E0&color=EEC9D2"/>
 </a>
 
-<a href="https://velog.io/@5seonjae/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-Blog-ffffff?style=for-the-badge&logo=velog&logoColor=20C997&color=DEF1DF"/>
+<br><br>
+
+<a href="https://velog.io/@5seonjae/posts" target="_blank" style="text-decoration: none;">
+  <img width="600" alt="Velog Blog Card" src="https://img.shields.io/badge/Velog%20Blog-Dev%20notes%20and%20daily%20thoughts-DEF1DF?style=for-the-badge&logo=velog&logoColor=20C997&labelColor=F0F7EF&color=C6ECD9"/>
 </a>
 
 </div>
+
 
 
 <!-- 하단 풋터 -->
