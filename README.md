@@ -20,5 +20,20 @@
 ## 📊 GitHub Stats
 ![Seonjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&title_color=f8b500&icon_color=f8b500)
 
+## 📚 More About Me
+
+<div align="center">
+
+<a href="https://www.notion.so/1cd75546dc30802f868dee6283eca452?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black&color=EEC9D2"/>
+</a>
+
+<a href="https://velog.io/@5seonjae/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-Blog-ffffff?style=for-the-badge&logo=velog&logoColor=20C997&color=DEF1DF"/>
+</a>
+
+</div>
+
+
 <!-- 하단 풋터 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:fceabb,100:f8b500&height=150)
