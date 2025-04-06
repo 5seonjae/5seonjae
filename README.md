@@ -22,7 +22,7 @@
 ### 🔧 Back-End
 <img src="https://img.shields.io/badge/Node.js-DDE5B6?style=for-the-badge&logo=node.js&logoColor=3C873A" />
 <img src="https://img.shields.io/badge/Express-CCD5AE?style=for-the-badge&logo=express&logoColor=000000" />
-<img src="https://img.shields.io/badge/MongoDB-C7F9CC?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/MySQL-C9E4DE?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 
 <br/>
 
@@ -39,9 +39,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-B8D8BA?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-FFF1F1?style=for-the-badge&logo=github&logoColor=181717" />
 <img src="https://img.shields.io/badge/Notion-F6E6DA?style=for-the-badge&logo=notion&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-FFCBCB?style=for-the-badge&logo=figma&logoColor=black" />
 
 </div>
+
 
 
 ## 📊 GitHub Stats
